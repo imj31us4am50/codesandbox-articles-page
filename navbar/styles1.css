@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;600&display=swap");
+
+:root {
+  --green: #81b73c;
+}
+
+body {
+  margin: 0;
+}
+
+.Header {
+  font-family: "Quicksand", sans-serif;
+  background: linear-gradient(to bottom right, #142e01, #84b835) no-repeat fixed;
+  font-weight: bold;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0.5em 1.5em;
+  /*
+  position: sticky;
+  top: 0;
+  box-shadow: 0 1px 5px var(--green);
+  */
+}
+.image {
+  max-width: 150px;
+}

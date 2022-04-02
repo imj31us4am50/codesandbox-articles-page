@@ -1,0 +1,24 @@
+input[type="search"] {
+  border-radius: 25px;
+  max-width: 600px;
+  border: 2px outset #81b73c;
+  padding: 0.5em 2.5em;
+  font-size: 1.125rem;
+  background: url("https://imj31us4am50.github.io/imgs/search-icon.png")
+    no-repeat;
+  background-size: 25px;
+  background-position: left;
+  background-position-x: 10px;
+}
+
+input:active,
+input:focus {
+  outline: none;
+}
+::-webkit-search-cancel-button {
+  display: none;
+}
+
+.search-icon {
+  width: 50px;
+}
