@@ -8,6 +8,11 @@ import Article02 from "/articles/Article02.js";
 import Article03 from "/articles/Article03.js";
 import Article04 from "/articles/Article04.js";
 import Article05 from "/articles/Article05.js";
+import Article06 from "/articles/Article06.js";
+import Article07 from "/articles/Article07.js";
+import Article08 from "/articles/Article08.js";
+import Article09 from "/articles/Article09.js";
+import Article10 from "/articles/Article10.js";
 
 export default function App2() {
   return (
@@ -19,8 +24,11 @@ export default function App2() {
       <Article03 />
       <Article04 />
       <Article05 />
-      <Article01 />
-      <Article01 />
+      <Article06 />
+      <Article07 />
+      <Article08 />
+      <Article09 />
+      <Article10 />
     </div>
   );
 }

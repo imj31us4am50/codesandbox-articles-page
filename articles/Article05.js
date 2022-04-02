@@ -24,7 +24,7 @@ export default function Article05() {
               răspândită specie de păsări din lume. Cocoșii pot fi de obicei
               diferențiați de găini prin penajul lor uimitor, marcat de cozi
               lungi curgătoare și pene ascuțite strălucitoare pe gât. Prădătorii
-              atacă puii din mai multe motive, inclusiv pentru hrană, pentru
+              atacă găinile din mai multe motive, inclusiv pentru hrană, pentru
               supraviețuire și pentru a-și hrăni puii. În medie, 97 de găini
               sunt ucise la fiecare 0,05 secunde în întreaga lume.
             </p>
@@ -65,9 +65,9 @@ export default function Article05() {
                   este cea mai răspândită specie de păsări din lume.
                   <br /> Cocoșii pot fi de obicei diferențiați de găini prin
                   penajul lor uimitor, marcat de cozi lungi curgătoare și pene
-                  ascuțite strălucitoare pe gât. Prădătorii atacă puii din mai
-                  multe motive, inclusiv pentru hrană, pentru supraviețuire și
-                  pentru a-și hrăni puii. <br />
+                  ascuțite strălucitoare pe gât. Prădătorii atacă găinile din
+                  mai multe motive, inclusiv pentru hrană, pentru supraviețuire
+                  și pentru a-și hrăni puii. <br />
                   În medie, 97 de găini sunt ucise la fiecare 0,05 secunde în
                   întreaga lume.
                 </p>
