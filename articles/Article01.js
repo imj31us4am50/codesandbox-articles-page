@@ -1,4 +1,4 @@
-import Article01CSS from "/articles/Article01.css";
+import ArticleCSS from "/articles/Article01.css";
 import JavaScript from "/mainpage/script.js";
 
 export default function Article01() {
@@ -8,7 +8,7 @@ export default function Article01() {
         href="#popup1"
         className="text-decoration-none text-dark overflow-hidden uref"
       >
-        <div className="row oik p-2" style={Article01CSS}>
+        <div className="row oik p-2" style={ArticleCSS}>
           <video
             src="https://imj31us4am50.github.io/NSVIDEOS/blue-peacock-in-nature.mp4"
             className="aoba col-3 col-sm-3"

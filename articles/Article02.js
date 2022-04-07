@@ -1,4 +1,4 @@
-import Article02CSS from "/articles/Article02.css";
+import ArticleCSS from "/articles/Article01.css";
 import JavaScript from "/mainpage/script.js";
 
 export default function Article02() {
@@ -8,7 +8,7 @@ export default function Article02() {
         href="#popup2"
         className="text-decoration-none text-dark overflow-hidden uref"
       >
-        <div className="row oik p-2" style={Article02CSS}>
+        <div className="row oik p-2" style={ArticleCSS}>
           <video
             src="https://imj31us4am50.github.io/NSVIDEOS/butterfly-on-a-pink-flower.mp4"
             className="aoba col-3 col-sm-3"

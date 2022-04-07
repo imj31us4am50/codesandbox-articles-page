@@ -1,29 +1,30 @@
 import ArticleCSS from "/articles/Article01.css";
 import JavaScript from "/mainpage/script.js";
 
-export default function Article04() {
+export default function Article11() {
   return (
     <div className="proper-container mx-auto row">
       <a
-        href="#popup4"
+        href="#popup11"
         className="text-decoration-none text-dark overflow-hidden uref"
       >
         <div className="row oik p-2" style={ArticleCSS}>
           <video
-            src="https://imj31us4am50.github.io/NSVIDEOS/camel-standing.mp4"
+            src="https://imj31us4am50.github.io/NSVIDEOS/close-up-video-of-an-owl.mp4"
             className="aoba col-3 col-sm-3"
             muted
           />
           <div className="container-for-description col-9 col-sm-9 mt-3">
-            <h5>Mai multe despre cămile.</h5>
+            <h5>Huhurezul bărbos.</h5>
             <p className="styling-for-article-paragraph">
-              Cămilele trăiesc în grupuri de până la 40 de membri formate din
-              femele, pui și un singur mascul dominant. Aceste animale nu sunt
-              considerate agresive, iar în luptele între masculi, aceștia se
-              împing cu capul și gâtul. Mulți factori le amenință
-              supraviețuirea, inclusiv pierderea și degradarea habitatului,
-              deșertificarea din cauza schimbărilor climatice și hibridizarea cu
-              cămila bactriană domestică.
+              Huhurezul bărbos sau huhurezul cu barbă trăiește în pădurile dese
+              de conifere, începând cu Suedia, Finlanda și Polonia, până în
+              estul Siberiei. Această bufniță cenușie este o bufniță foarte
+              mare, documentată ca fiind cea mai mare specie de bufniță din lume
+              după lungime. Pierderea habitatului pădurii din cauza tăierilor și
+              defrișărilor este cea mai mare amenințare cu care se confruntă
+              această bufniță magnifică. În timpul iernii, unele bufnițe pot
+              avea dificultăți în a găsi hrană și pot muri de foame.
             </p>
           </div>
         </div>
@@ -31,7 +32,7 @@ export default function Article04() {
         <script src={JavaScript} />
       </a>
 
-      <div id="popup4" className="overlay">
+      <div id="popup11" className="overlay">
         <div className="popup d-flex align-self-center justify-content-center">
           <a className="close" href="#close">
             &times;
@@ -39,7 +40,7 @@ export default function Article04() {
           <div className="content d-flex" onLoad={this.window.focus()}>
             <div className="popup-video-cont">
               <video
-                src="https://imj31us4am50.github.io/NSVIDEOS/camel-standing.mp4"
+                src="https://imj31us4am50.github.io/NSVIDEOS/close-up-video-of-an-owl.mp4"
                 className="o mt-1"
                 controls
                 muted
@@ -49,18 +50,18 @@ export default function Article04() {
             </div>
             <div className="popup-desc-cont p-4 pt-5">
               <div className="popup-text">
-                <h1 className="popup-title text-wrap m-0">
-                  Mai multe despre cămile.
-                </h1>
+                <h1 className="popup-title text-wrap m-0">Huhurezul bărbos.</h1>
                 <p className="popup-paragraph text-wrap mt-4">
-                  Cămilele trăiesc în grupuri de până la 40 de membri formate
-                  din femele, pui și un singur mascul dominant. <br />
-                  Aceste animale nu sunt considerate agresive, iar în luptele
-                  între masculi, aceștia se împing cu capul și gâtul.
-                  <br /> Mulți factori le amenință supraviețuirea, inclusiv
-                  pierderea și degradarea habitatului, deșertificarea din cauza
-                  schimbărilor climatice și hibridizarea cu cămila bactriană
-                  domestică.
+                  Huhurezul bărbos sau huhurezul cu barbă trăiește în pădurile
+                  dese de conifere, începând cu Suedia, Finlanda și Polonia,
+                  până în estul Siberiei.
+                  <br /> Această bufniță cenușie este o bufniță foarte mare,
+                  documentată ca fiind cea mai mare specie de bufniță din lume
+                  după lungime.
+                  <br /> Pierderea habitatului pădurii din cauza tăierilor și
+                  defrișărilor este cea mai mare amenințare cu care se confruntă
+                  această bufniță magnifică. În timpul iernii, unele bufnițe pot
+                  avea dificultăți în a găsi hrană și pot muri de foame.
                 </p>
               </div>
               <div className="lower-part">

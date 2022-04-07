@@ -1,4 +1,4 @@
-import Article09CSS from "/articles/Article09.css";
+import ArticleCSS from "/articles/Article01.css";
 import JavaScript from "/mainpage/script.js";
 
 export default function Article09() {
@@ -8,7 +8,7 @@ export default function Article09() {
         href="#popup9"
         className="text-decoration-none text-dark overflow-hidden uref"
       >
-        <div className="row oik p-2" style={Article09CSS}>
+        <div className="row oik p-2" style={ArticleCSS}>
           <video
             src="https://imj31us4am50.github.io/NSVIDEOS/close-up-on-woodpecker-on-tree.mp4"
             className="aoba col-3 col-sm-3"

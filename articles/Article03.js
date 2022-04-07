@@ -1,4 +1,4 @@
-import Article03CSS from "/articles/Article03.css";
+import ArticleCSS from "/articles/Article01.css";
 import JavaScript from "/mainpage/script.js";
 
 export default function Article03() {
@@ -8,7 +8,7 @@ export default function Article03() {
         href="#popup3"
         className="text-decoration-none text-dark overflow-hidden uref"
       >
-        <div className="row oik p-2" style={Article03CSS}>
+        <div className="row oik p-2" style={ArticleCSS}>
           <video
             src="https://imj31us4am50.github.io/NSVIDEOS/camel-chewing.mp4"
             className="aoba col-3 col-sm-3"
