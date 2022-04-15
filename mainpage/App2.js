@@ -15,6 +15,9 @@ import Article09 from "/articles/Article09.js";
 import Article10 from "/articles/Article10.js";
 import Article11 from "/articles/Article11.js";
 import Article12 from "/articles/Article12.js";
+import Article13 from "/articles/Article13.js";
+import Article14 from "/articles/Article14.js";
+import Article15 from "/articles/Article15.js";
 
 export default function App2() {
   return (
@@ -33,6 +36,9 @@ export default function App2() {
       <Article10 />
       <Article11 />
       <Article12 />
+      <Article13 />
+      <Article14 />
+      <Article15 />
     </div>
   );
 }
