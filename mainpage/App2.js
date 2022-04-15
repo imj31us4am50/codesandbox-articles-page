@@ -18,10 +18,11 @@ import Article12 from "/articles/Article12.js";
 import Article13 from "/articles/Article13.js";
 import Article14 from "/articles/Article14.js";
 import Article15 from "/articles/Article15.js";
+import Footer from "/footer/Footer.js";
 
 export default function App2() {
   return (
-    <div className="container-fluid mx-auto p-4 Main">
+    <div className="container-fluid mx-auto p-5 Main">
       <Title />
       <SearchBar />
       <Article01 />

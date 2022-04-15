@@ -1,0 +1,10 @@
+.footer {
+  background: linear-gradient(to bottom right, #142e01, #84b835) no-repeat fixed;
+  font-family: Quicksand, sans-serif;
+}
+.ipqle {
+  width: fit-content;
+}
+.fs {
+  user-select: none;
+}
