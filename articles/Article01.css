@@ -1,6 +1,7 @@
 .oik {
   font-size: 0.9rem;
   border-bottom: 1px solid #81b73c;
+  margin: auto;
 }
 .container-for-description {
   max-width: 825px;
