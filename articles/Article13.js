@@ -1,5 +1,4 @@
 import ArticleCSS from "/articles/Article.css";
-import JavaScript from "/mainpage/script.js";
 
 export default function Article13() {
   return (
@@ -29,8 +28,6 @@ export default function Article13() {
             </p>
           </div>
         </div>
-
-        <script src={JavaScript} />
       </a>
 
       <div id="popup13" className="overlay">
