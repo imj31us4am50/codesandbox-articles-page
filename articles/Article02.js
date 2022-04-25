@@ -60,15 +60,15 @@ export default function Article02() {
                   Fluturele monarh este o insectă zburătoare aparținând familiei
                   Nymphalidae. Se caracterizează prin modelele colorate ale
                   aripilor sale, distingând tonurile portocalii și negre.
-                  <br /> Schimbările climatice au avut un "impact considerabil"
-                  asupra pattern-ului de migraţie al fluturilor monarh, dar şi
-                  asupra habitatului lor de creştere din Statele Unite.
-                  <br /> De asemenea, este posibil ca toți oamenii cărora le
-                  pasă cel mai mult de monarhi să contribuie la dispariția lor.
-                  Impactul a 300.000 de picioare pe traseele montane abrupte
-                  provoacă o eroziune considerabilă a solului. Mulți turiști
-                  călătoresc călare, ridicând praful care blochează spiraculele
-                  și sufocă literalmente fluturii.
+                  Schimbările climatice au avut un "impact considerabil" asupra
+                  pattern-ului de migraţie al fluturilor monarh, dar şi asupra
+                  habitatului lor de creştere din Statele Unite. De asemenea,
+                  este posibil ca toți oamenii cărora le pasă cel mai mult de
+                  monarhi să contribuie la dispariția lor. Impactul a 300.000 de
+                  picioare pe traseele montane abrupte provoacă o eroziune
+                  considerabilă a solului. Mulți turiști călătoresc călare,
+                  ridicând praful care blochează spiraculele și sufocă
+                  literalmente fluturii.
                 </p>
               </div>
               <div className="lower-part">
