@@ -1,4 +1,4 @@
-import ArticleCSS from "/articles/Article01.css";
+import ArticleCSS from "/articles/Article.css";
 import JavaScript from "/mainpage/script.js";
 
 export default function Article11() {
@@ -75,15 +75,32 @@ export default function Article11() {
                   />
                 </div>
                 <div className="container-of-like">
-                  {/* future feature
                   <a href="#popup1" id="like-el">
                     <img
                       src="https://imj31us4am50.github.io/imgs/not-liked-icon.png"
                       className="like-icon"
                       id="img-el"
+                      onClick={() => {
+                        let likeContainer = document.getElementById("like-el");
+                        let imageEl = document.getElementById("img-el");
+
+                        if (likeContainer) {
+                          likeContainer.addEventListener("click", function () {
+                            if (
+                              imageEl.src ==
+                              "https://imj31us4am50.github.io/imgs/not-liked-icon.png"
+                            ) {
+                              imageEl.src =
+                                "https://imj31us4am50.github.io/imgs/liked-icon.png";
+                            } else {
+                              imageEl.src =
+                                "https://imj31us4am50.github.io/imgs/not-liked-icon.png";
+                            }
+                          });
+                        }
+                      }}
                     />
                   </a>
-                  */}
                 </div>
               </div>
             </div>

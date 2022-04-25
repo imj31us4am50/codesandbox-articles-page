@@ -148,7 +148,7 @@ input[type="text"] {
 }
 
 .like-icon {
-  width: 25px;
+  width: 30px;
 }
 
 .lower-part {
@@ -162,6 +162,8 @@ input[type="text"] {
   margin: 0.5em;
   width: fit-content;
   border-radius: 50%;
+  background: #f0f0f0;
+  border: 1px outset #81b73c;
 }
 
 .popup-leave-a-comment {
