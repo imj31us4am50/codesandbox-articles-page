@@ -26,7 +26,7 @@ export default function App2() {
       <Title />
       <SearchBar />
       <Article01 />
-      {/* <Article02 />
+      <Article02 />
       <Article03 />
       <Article04 />
       <Article05 />
@@ -39,7 +39,7 @@ export default function App2() {
       <Article12 />
       <Article13 />
       <Article14 />
-      <Article15 /> */}
+      <Article15 />
     </div>
   );
 }

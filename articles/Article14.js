@@ -78,7 +78,7 @@ export default function Article14() {
                   />
                 </div>
                 <div className="container-of-like">
-                  <a href="#popup1" id="like-el">
+                  <a href="#popup14" id="like-el">
                     <img
                       src="https://imj31us4am50.github.io/imgs/not-liked-icon.png"
                       className="like-icon"
