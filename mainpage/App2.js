@@ -18,6 +18,12 @@ import Article12 from "/articles/Article12.js";
 import Article13 from "/articles/Article13.js";
 import Article14 from "/articles/Article14.js";
 import Article15 from "/articles/Article15.js";
+import Article16 from "/articles/Article16.js";
+import Article17 from "/articles/Article17.js";
+import Article18 from "/articles/Article18.js";
+import Article19 from "/articles/Article19.js";
+import Article20 from "/articles/Article20.js";
+
 import Footer from "/footer/Footer.js";
 
 export default function App2() {
@@ -25,7 +31,7 @@ export default function App2() {
     <div className="container-fluid mx-auto p-5 Main">
       <Title />
       <SearchBar />
-      <Article01 />
+      {/* <Article01 />
       <Article02 />
       <Article03 />
       <Article04 />
@@ -40,6 +46,11 @@ export default function App2() {
       <Article13 />
       <Article14 />
       <Article15 />
+      <Article16 />
+      <Article17 />
+      <Article18 />
+      <Article19 />
+      <Article20 /> */}
     </div>
   );
 }
